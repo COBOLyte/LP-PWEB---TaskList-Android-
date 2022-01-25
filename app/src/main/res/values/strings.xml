@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TaskList</string>
+    <!-- Texte des onglets -->
+    <string name="tab_text_1">Liste des tâches</string>
+    <string name="tab_text_2">Ajouter une tâche</string>
+    <string name="tab_text_3">Calendrier</string>
+    <!-- Messages Toast -->
+    <string name="newTaskAddedToastMsg">Tâche enregistrée</string>
+    <string name="taskDeletedToastMsg">Tâche terminée</string>
+    <string name="emptyNewTaskTitleAddedToastMsg">Veuillez saisir le nom de la tâche</string>
+    <!-- Texte Formulaire de création de tâche -->
+    <string name="taskTitlePlaceholder">Nom</string>
+    <string name="addTaskButton">Enregistrer</string>
+    <!-- Texte RecyclerView -->
+    <string name="remainingDaysStartText">(</string>
+    <string name="remainingDaysEndText">jour(s) restant(s))</string>
+    <string name="deleteTaskButtonText">X</string>
+    <string name="endDateText">Termine le</string>
+</resources>
